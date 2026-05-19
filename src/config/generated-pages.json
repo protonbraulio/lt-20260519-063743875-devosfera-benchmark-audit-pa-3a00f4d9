@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Content Operations Score Table",
+    "href": "/content-operations-score-table"
+  },
+  {
+    "title": "Content Operations Comparison",
+    "href": "/content-operations-comparison"
+  },
+  {
+    "title": "Content Operations Findings",
+    "href": "/content-operations-findings"
+  },
+  {
+    "title": "Content Operations FAQ",
+    "href": "/content-operations-faq"
+  },
+  {
+    "title": "Content Operations Methodology",
+    "href": "/content-operations-methodology"
+  }
+]
